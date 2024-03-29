@@ -33,7 +33,6 @@
 
 
 ;;; Code:
-(require 'async)
 (require 'org-alert-parameters)
 
 ;;; switches to turn on or off the alert stuff
